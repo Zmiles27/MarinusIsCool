@@ -20,6 +20,9 @@ filezilla
 # MarinusIsCool
 
 >>>>>>> 1b1fce9665fdfdd383ea75853626e7975efb2c4d
+
+Gerben Prins
+
 wat heb ik in deze lessen geleerd?
 github dingen
 
